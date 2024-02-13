@@ -1,4 +1,4 @@
-# Deep Learning for Natural Language Processing (NLP) README
+# Deep Learning for Natural Language Processing with practicle (NLP) README
 
 ## Introduction
 Deep Learning techniques have revolutionized Natural Language Processing (NLP) tasks by enabling models to learn complex patterns and representations from textual data. This README provides an overview of key deep learning techniques used in NLP, including Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Bidirectional LSTM, Word2Vec, Average Word2Vec, and Embedding layers.
